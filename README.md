@@ -1,51 +1,24 @@
-<h2 align="left">Hi 👋! My name is Mehmet Emin and I'm a game and app developer, from Turkiye.</h2>
+<!-- Main Profile Card Container -->
+<div align="center">
 
-###
+  <!-- 1. SPOTIFY CARD (Live / Last Played) -->
+  <a href="https://open.spotify.com">
+    <img 
+      src="https://spotify-github-readme.eyJ.app/api?user=spotify&theme=novert&bar_color=1db954&show_offline=true" 
+      alt="Spotify Last Played Track" 
+      width="450"
+    />
+  </a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <br />
+  <br />
+
+  <!-- 2. ROTATING FUN FACTS (Animated SVG) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=1DB954&center=true&vcenter=true&width=500&height=50&lines=%F0%9F%8E%B5+S%C3%BCrekli+Kanye+West+dinliyor+(On+Repeat!)+%F0%9F%94%81;%F0%9F%90%90+Futbolun+GOAT'u+net+şekilde+Messi'dir!;%F0%9F%8E%AE+T%C3%BCm+zamanların+en+iyi+oyunu:+Mafia+II;%F0%9F%91%93+Yazılım+ve+oyun+dünyasındaki+idolu:+Gabe+Newell;%F0%9F%B8%84+Oynadığı+ilk+bilgisayar+oyunu:+Delta+Force+BHD;%F0%9F%90%A4+Geliştirdiği+ilk+oyun+Flappy+Bird+çakmasıydı!" 
+      alt="Fun Facts Typing SVG" 
+    />
+  </a>
+
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=mehmeteminkartal5433@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="80" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=@krtll_fmu&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="80" alt="discord logo"  />
-  <a href="https://www.instagram.com/leoeminn_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=leoeminn_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="80" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@teraldev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=teraldev&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="80" alt="youtube logo"  />
-  </a>
-  <a href="https://teral-dev.itch.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io-teral_dev&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=flat" height="80" alt="itch logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/312ziqjyu5hofy2ja56oi3khvoty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312ziqjyu5hofy2ja56oi3khvoty&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Teralmason/Teralmason/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Teralmason/Teralmason/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Teralmason/Teralmason/output/pacman-contribution-graph.svg">
-</picture>
-
-###
